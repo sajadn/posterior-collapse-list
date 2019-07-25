@@ -1,7 +1,9 @@
+Lots of papers has been trying to address the problem of posterior collapse in VAEs. Due to huge number of publications, I thought it would be intersting to create a list of related papers. 
+
 | Paper                                              | implementation | Publication Year | Citation |
 | ---------------------------------------------------| -------------- | ---------------- | -------- |
 | Ladder variational autoencoders                    | Yes            |  2016            | 200+     |
-| STICK-BREAKING VAE                                 | No             |  2016            | 40+      |
+| Stick-Breaking VAE                                 | No             |  2016            | 40+      |
 | beta-VAE: Learning basic visual concepts with a constrained variational framework| Third Party |  2017   | 350+     |
 | Fixing a broken ELBO                               | No             |  2017            | 70+      |
 | Neural discrete representation learning            | Third Party    |  2017            | 128+     |
@@ -19,17 +21,40 @@
 | Hyperspherical Variational Auto-Encoders           | Yes | 2018 | 30+ |
 | Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation      | No             |  2018            | 10+      |
 | The Mutual Autoencoder: Controlling Information in Latent Code Representations  | No             |  2018            | 10-      |
-| HIERARCHICALLY-STRUCTURED VARIATIONAL AUTOENCODERS FOR LONG TEXT GENERATION     | No             |  2018            | 10-      |
+| Hierarchicaly-Structured Variational Autoencoder For Long Text Generation     | No             |  2018            | 10-      |
 | Adversarially Regularized Autoencoders                                          | Yes             |  2018            | 60+      |
 | BIVA: A very deep hierarchy of latent variables for generative modeling         | No             |  2019            | 10-      |  | preventing posterior collapse with delta-VAEs                                   | No             |  2019            | 40+      |
 | Diagnosing and enhancing VAE model                                              | No             |  2019            | 10-      |
-| MAE: MUTUAL POSTERIOR-DIVERGENCE REGULARIZATION FOR VARIATIONAL AUTO ENCODERS   | No             |  2019            | 10-      |
-| GENERATED LOSS AND AUGMENTED TRAINING OF MNIST VAE                              | No             |  2019            | 10-      |
+| MAE: Mutual Posterior-Divergence Regularization For Variational Auto Encoder   | No             |  2019            | 10-      |
 | Topic-Guided Variational Autoencoders for Text Generation                       | No             |  2019            | 10-      |
-| Importance Weighted Hierarchical Variational Inference                          | No             |  2019            | 10-      |  | GENERATED LOSS, AUGMENTED TRAINING, AND MULTISCALE VAE                          | No             |  2019            | 40+      |
+| Importance Weighted Hierarchical Variational Inference                          | No             |  2019            | 10-      |  | Generated Loss, Augmented Training, And Multiscale VAE                          | No             |  2019            | 40+      |
 | mμ-Forcing: Training Variational Recurrent Autoencoders for Text Generation     | No             |  2019            | 10-      |
 | Dueling Decoders: Regularizing Variational Autoencoder Latent Spaces            | No             |  2019            | 10-      |
 | Riemannian Normalizing Flow on Variational Wasserstein Autoencoder for Text Modeling    | No             |  2019    | 10-   |
-| LIA: Latently Invertible Autoencoder with Adversarial Learning                  | Yes             |  2019            | 10-      |  | GENERATED LOSS, AUGMENTED TRAINING, AND MULTISCALE VAE                          | No             |  2019            | 10-      |
-| COMPOUND VARIATIONAL AUTO-ENCODER                                               | No             |  2019            | 10-      |
-| Quantization-Based Regularization for Autoencoders                              | No             |  2019            |  10-     |  | LAGGING INFERENCE NETWORKS   AND POSTERIOR COLLAPSE IN VARIATIONAL AUTOENCODERS   | No             |  2019            | 10-    
+| LIA: Latently Invertible Autoencoder with Adversarial Learning                  | Yes             |  2019            | 10-      |  
+| Compound Variational Auto-Encoder                                               | No             |  2019            | 10-      |
+| Quantization-Based Regularization for Autoencoders                              | No             |  2019            |  10-     |  | Lagging Ingerence Network And Posterior Collapse In Variational Autoencoders    | No             |  2019            | 10-       |
+| Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing       | No             | 2019             | 10-       |
+
+
+Some paper observed posterior collapse for a particular task and tried to alleviate it mostly by KL-annealing. 
+| Paper                                              | implementation | Publication Year | Citation |
+| ---------------------------------------------------| -------------- | ---------------- | -------- |
+| Generating Sentences from a Continuous Space       | Third Party            |  2015            | 600+     |
+| A Neural Representation of Sketch Drawings         | No             |  2017            | 150+      |
+| Improved Variational Autoencoders for Text Modeling using Dilated Convolutions | Third Party |  2017   | 80+     |
+| Diverse and Accurate Image Description Using a Variational Auto-Encoder with an Additive Gaussian Encoding Space                               | Thrid Party        |  2017            | 40+      |
+| A Hierarchical Latent Vector Model for Learning Long-Term Structure in Music | Yes             |  2018            | 50+     |
+| Improving Variational Encoder-Decoders in Dialogue Generation | Third Party  | 2018           | 50      |
+| The challenge of realistic music generation: modelling raw audio at scale      | No             |  2018           | 20+      |
+| LEARNING PRODUCT CODEBOOKS USING VECTOR-QUANTIZED AUTOENCODERS FOR IMAGE RETRIEVAL | Yes           |  2018           | 20+      |
+| Auto-Encoding Variational Neural Machine Translation             | No             |  2018           | 20+      |
+| Trajectory-User Linking via Variational AutoEncoder              | No             |  2018           | 20+      |
+| Structure-aware Generative Network for 3D-Shape Modeling         | No             |  2018           | 20+      |
+| Auto-Encoding Variational Neural Machine Translation             | No             |  2018           | 20+      |
+| Unsupervised speech representation learning using WaveNet autoencoders    | No             |  2019           | 10-   |
+| Syntax-Infused Variational Autoencoder for Text Generation                | No             |  2019          | 10-   |
+| Unsupervised Recurrent Neural Network Grammars                            | No             |  2019          | 10-   |
+| Learning Latent Plans from Play                                           | No             | 2019             | 10-      |
+| DIALOG WAE: MULTIMODAL RESPONSE GENERATION WITH CONDITIONAL WASSERSTEIN AUTO-ENCODER | No             | 2019             | 10-      
+
