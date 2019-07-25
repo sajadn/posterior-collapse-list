@@ -63,10 +63,11 @@ Some paper observed posterior collapse for a particular task and tried to allevi
 | DIALOG WAE: MULTIMODAL RESPONSE GENERATION WITH CONDITIONAL WASSERSTEIN AUTO-ENCODER | No             | 2019             | 10-  |    
 
 Highly related papers:
+
 | Paper                                              | implementation | Publication Year | Citation |
 | ---------------------------------------------------| -------------- | ---------------- | -------- |
 | Adversarial Autoencoders                                            |  Third Party     | 2015     | 750+ | 
-| Improved variational inference with inverse autoregressive flow     | Yes            |  2016            | 400+     |
+| Improved variational inference with inverse autoregressive flow     | Yes              |  2016            | 400+     |
 | Variational lossy autoencoder                     | No             |  2016            | 190+      |
 | Symmetrized Variational Inference    |  2016   | 10-     |
 | ELBO surgery: yet another way to carve up the variational evidence lower bound  |  No          | 2017            | 70+      |
