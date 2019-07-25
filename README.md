@@ -22,7 +22,7 @@ Lots of papers has been trying to address the problem of posterior collapse with
 | Distribution matching in variational inference     | Third Party    |  2017            | 15+      |
 | Hyperspherical Variational Auto-Encoders           | Yes | 2018 | 30+ |
 | Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation      | No             |  2018            | 10+      |
-| LEARNING LATENT REPRESENTATIONS FOR STYLE CONTROL AND TRANSFER IN END-TO-END SPEECH SYNTHESIS    | Third Party | 2018 | 10-|
+| Learning Latent Representations For Style Control And Transfer in End-To-End Speech Synthesis    | Third Party | 2018 | 10-|
 | The Mutual Autoencoder: Controlling Information in Latent Code Representations  | No             |  2018            | 10-      |
 | Hierarchicaly-Structured Variational Autoencoder For Long Text Generation     | No             |  2018            | 10-      |
 | Adversarially Regularized Autoencoders                                          | Yes             |  2018            | 60+      |
@@ -77,7 +77,7 @@ Highly related papers:
 | Learning Deep Representation by Mutual Information Estimation And  Maximization  | No           |  2018           | 20+      |
 | Sinkhorn AutoEncoders              | No             |  2018           | 10-      |
 | Learning Priors for Adversarial Autoencoders       | No             |  2018           | 10-      |
-| Universal Audio Synthesizer Control With Normalizing Flows       | No             |  2018           | 10-      |
+| Universal Audio Synthesizer Control With Normalizing Flows       | Yes             |  2018           | 10-      |
 | Auto-Encoding Variational Neural Machine Translation             | No             |  2018           | 20+      |
 | Unsupervised speech representation learning using WaveNet autoencoders    | No             |  2019           | 10-   |
 | Syntax-Infused Variational Autoencoder for Text Generation                | No             |  2019          | 10-   |
