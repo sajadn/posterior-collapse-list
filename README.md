@@ -4,7 +4,7 @@ Lots of papers has been trying to address the problem of posterior collapse with
 | ---------------------------------------------------| -------------- | ---------------- | -------- |
 | Ladder variational autoencoders                    | Yes            |  2016            | 200+     |
 | Stick-Breaking VAE                                 | No             |  2016            | 40+      |
-| EPITOMIC VARIATIONAL AUTOENCODER                   | No             | 2016             | 10-      |
+| Epitomic Variational Autoencoder                   | No             | 2016             | 10-      |
 | beta-VAE: Learning basic visual concepts with a constrained variational framework| Third Party |  2017   | 350+     |
 | Fixing a broken ELBO                               | No             |  2017            | 70+      |
 | Neural discrete representation learning            | Third Party    |  2017            | 128+     |
@@ -22,6 +22,7 @@ Lots of papers has been trying to address the problem of posterior collapse with
 | Distribution matching in variational inference     | Third Party    |  2017            | 15+      |
 | Hyperspherical Variational Auto-Encoders           | Yes | 2018 | 30+ |
 | Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation      | No             |  2018            | 10+      |
+| LEARNING LATENT REPRESENTATIONS FOR STYLE CONTROL AND TRANSFER IN END-TO-END SPEECH SYNTHESIS    | Third Party | 2018 | 10-|
 | The Mutual Autoencoder: Controlling Information in Latent Code Representations  | No             |  2018            | 10-      |
 | Hierarchicaly-Structured Variational Autoencoder For Long Text Generation     | No             |  2018            | 10-      |
 | Adversarially Regularized Autoencoders                                          | Yes             |  2018            | 60+      |
@@ -61,3 +62,24 @@ Some paper observed posterior collapse for a particular task and tried to allevi
 | Learning Latent Plans from Play                                           | No             | 2019             | 10-      |
 | DIALOG WAE: MULTIMODAL RESPONSE GENERATION WITH CONDITIONAL WASSERSTEIN AUTO-ENCODER | No             | 2019             | 10-  |    
 
+Highly related papers:
+| Paper                                              | implementation | Publication Year | Citation |
+| ---------------------------------------------------| -------------- | ---------------- | -------- |
+| Adversarial Autoencoders                                            |  Third Party     | 2015     | 750+ | 
+| Improved variational inference with inverse autoregressive flow     | Yes            |  2016            | 400+     |
+| Variational lossy autoencoder                     | No             |  2016            | 190+      |
+| Symmetrized Variational Inference    |  2016   | 10-     |
+| ELBO surgery: yet another way to carve up the variational evidence lower bound  |  No          | 2017            | 70+      |
+| Adversarial Symmetric Variational Autoencoder | No             |  2017            | 25+     |
+|  | Third Party  | 2018           | 50      |
+| WASSERSTEIN AUTO-ENCODERS: LATENT DIMENSIONALITY AND RANDOM ENCODERS        | No             |  2018           | 210-      |
+| LEARNING  DEEP  REPRESENTATIONS  BY  MUTUAL  IN-FORMATION ESTIMATION AND  MAXIMIZATION  | No           |  2018           | 20+      |
+| Sinkhorn AutoEncoders              | No             |  2018           | 10-      |
+| Learning Priors for Adversarial Autoencoders       | No             |  2018           | 10-      |
+| UNIVERSAL AUDIO SYNTHESIZER CONTROL WITH NORMALIZING FLOWS       | No             |  2018           | 10-      |
+| Auto-Encoding Variational Neural Machine Translation             | No             |  2018           | 20+      |
+| Unsupervised speech representation learning using WaveNet autoencoders    | No             |  2019           | 10-   |
+| Syntax-Infused Variational Autoencoder for Text Generation                | No             |  2019          | 10-   |
+| Unsupervised Recurrent Neural Network Grammars                            | No             |  2019          | 10-   |
+| Learning Latent Plans from Play                                           | No             | 2019             | 10-      |
+| DIALOG WAE: MULTIMODAL RESPONSE GENERATION WITH CONDITIONAL WASSERSTEIN AUTO-ENCODER | No             | 2019             | 10-  |
