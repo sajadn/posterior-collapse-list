@@ -1,6 +1,6 @@
 Lots of papers has been trying to address the problem of posterior collapse with VAEs. Due to huge number of publications, I thought it is intersting to have a list of related papers. 
 
-| Paper                                              | implementation | Publication Year | Citation |
+| Paper                                              | Implementation | Publication Year | Citation |
 | ---------------------------------------------------| -------------- | ---------------- | -------- |
 | Ladder variational autoencoders                    | Yes            |  2016            | 200+     |
 | Stick-Breaking VAE                                 | No             |  2016            | 40+      |
@@ -42,7 +42,7 @@ Lots of papers has been trying to address the problem of posterior collapse with
 
 Some paper observed posterior collapse for a particular task and tried to alleviate it mostly by KL-annealing. 
 
-| Paper                                              | implementation | Publication Year | Citation |
+| Paper                                              | Implementation | Publication Year | Citation |
 | ---------------------------------------------------| -------------- | ---------------- | -------- |
 | Generating Sentences from a Continuous Space       | Third Party            |  2015            | 600+     |
 | A Neural Representation of Sketch Drawings         | No             |  2017            | 150+      |
@@ -64,7 +64,7 @@ Some paper observed posterior collapse for a particular task and tried to allevi
 
 Highly related papers:
 
-| Paper                                              | implementation | Publication Year | Citation |
+| Paper                                              | Implementation | Publication Year | Citation |
 | ---------------------------------------------------| -------------- | ---------------- | -------- |
 | Adversarial Autoencoders                                            |  Third Party     | 2015     | 750+ | 
 | Improved variational inference with inverse autoregressive flow     | Yes              |  2016            | 400+     |
