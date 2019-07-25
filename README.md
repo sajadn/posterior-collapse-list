@@ -78,7 +78,3 @@ Highly related papers but not exactly on Posterior Collapse:
 | Sinkhorn AutoEncoders              | No             |  2018           | 10-      |
 | Learning Priors for Adversarial Autoencoders       | No             |  2018           | 10-      |
 | Universal Audio Synthesizer Control With Normalizing Flows       | Yes             |  2018           | 10-      |
-| Unsupervised speech representation learning using WaveNet autoencoders    | No             |  2019           | 10-   |
-| Syntax-Infused Variational Autoencoder for Text Generation                | No             |  2019          | 10-   |
-| Unsupervised Recurrent Neural Network Grammars                            | No             |  2019          | 10-   |
-| Learning Latent Plans from Play                                           | No             | 2019             | 10-      |
