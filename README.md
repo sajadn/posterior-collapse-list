@@ -38,6 +38,7 @@ Lots of papers has been trying to address the problem of posterior collapse in V
 
 
 Some paper observed posterior collapse for a particular task and tried to alleviate it mostly by KL-annealing. 
+
 | Paper                                              | implementation | Publication Year | Citation |
 | ---------------------------------------------------| -------------- | ---------------- | -------- |
 | Generating Sentences from a Continuous Space       | Third Party            |  2015            | 600+     |
@@ -56,5 +57,5 @@ Some paper observed posterior collapse for a particular task and tried to allevi
 | Syntax-Infused Variational Autoencoder for Text Generation                | No             |  2019          | 10-   |
 | Unsupervised Recurrent Neural Network Grammars                            | No             |  2019          | 10-   |
 | Learning Latent Plans from Play                                           | No             | 2019             | 10-      |
-| DIALOG WAE: MULTIMODAL RESPONSE GENERATION WITH CONDITIONAL WASSERSTEIN AUTO-ENCODER | No             | 2019             | 10-      
+| DIALOG WAE: MULTIMODAL RESPONSE GENERATION WITH CONDITIONAL WASSERSTEIN AUTO-ENCODER | No             | 2019             | 10-  |    
 
