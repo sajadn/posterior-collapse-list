@@ -1,9 +1,10 @@
-Lots of papers has been trying to address the problem of posterior collapse in VAEs. Due to huge number of publications, I thought it would be intersting to create a list of related papers. 
+Lots of papers has been trying to address the problem of posterior collapse with VAEs. Due to huge number of publications, I thought it would be intersting to create a list of related papers. 
 
 | Paper                                              | implementation | Publication Year | Citation |
 | ---------------------------------------------------| -------------- | ---------------- | -------- |
 | Ladder variational autoencoders                    | Yes            |  2016            | 200+     |
 | Stick-Breaking VAE                                 | No             |  2016            | 40+      |
+| EPITOMIC VARIATIONAL AUTOENCODER                   | No             | 2016             | 10-      |
 | beta-VAE: Learning basic visual concepts with a constrained variational framework| Third Party |  2017   | 350+     |
 | Fixing a broken ELBO                               | No             |  2017            | 70+      |
 | Neural discrete representation learning            | Third Party    |  2017            | 128+     |
@@ -12,6 +13,7 @@ Lots of papers has been trying to address the problem of posterior collapse in V
 | Auxiliary Guided Autoregressive Variational Autoencoders | No       |  2017            | 10-      |
 | VAE with a VampPrior                               | Yes            |  2017            | 70+      |
 | Z-Forcing: Training Stochastic Recurrent Networks  | Third Party    |  2017            | 40+      |
+| Latent Space Optimal Transport for Generative Models                |  No             |  2018     | 10- |
 | Improving explorability in variational inference with annealed variational objectives | No | 2018 | 10- |
 | Taming VAEs                                        | No             |  2018            | 10+      |
 | Semi-Amortized Variational Autoencoders            | No             |  2018            | 40+      |
@@ -48,7 +50,7 @@ Some paper observed posterior collapse for a particular task and tried to allevi
 | A Hierarchical Latent Vector Model for Learning Long-Term Structure in Music | Yes             |  2018            | 50+     |
 | Improving Variational Encoder-Decoders in Dialogue Generation | Third Party  | 2018           | 50      |
 | The challenge of realistic music generation: modelling raw audio at scale      | No             |  2018           | 20+      |
-| LEARNING PRODUCT CODEBOOKS USING VECTOR-QUANTIZED AUTOENCODERS FOR IMAGE RETRIEVAL | Yes           |  2018           | 20+      |
+| Learning Product Codebooks Using Vector-Quantized Autoencoder For Image Retrieval | Yes           |  2018           | 20+      |
 | Auto-Encoding Variational Neural Machine Translation             | No             |  2018           | 20+      |
 | Trajectory-User Linking via Variational AutoEncoder              | No             |  2018           | 20+      |
 | Structure-aware Generative Network for 3D-Shape Modeling         | No             |  2018           | 20+      |
