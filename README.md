@@ -72,7 +72,7 @@ Highly related papers:
 | Symmetrized Variational Inference    |  No        |  2016   | 10-     |
 | ELBO surgery: yet another way to carve up the variational evidence lower bound  |  No          | 2017            | 70+      |
 | Adversarial Symmetric Variational Autoencoder | No             |  2017            | 25+     |
-|  | Third Party  | 2018           | 50      |
+| Learning Latent Representations for Style Ccontrol And Transfer In end-to-end Speech Synthesis | Third Party  | 2018     |50   |
 | Wassertain Auto-Encoder: Latent Dimentionality And Random Encoders        | No             |  2018           | 210-      |
 | Learning Deep Representation by Mutual Information Estimation And  Maximization  | No           |  2018           | 20+      |
 | Sinkhorn AutoEncoders              | No             |  2018           | 10-      |
