@@ -40,7 +40,7 @@ Lots of papers has been trying to address the problem of posterior collapse with
 | Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing       | No             | 2019             | 10-       |
 
 
-Some paper observed posterior collapse for a particular task and tried to alleviate it mostly by KL-annealing. 
+Some papers observed posterior collapse for a particular task and tried to alleviate it mostly by KL-annealing: 
 
 | Paper                                              | Implementation | Publication Year | Citation |
 | ---------------------------------------------------| -------------- | ---------------- | -------- |
@@ -62,7 +62,7 @@ Some paper observed posterior collapse for a particular task and tried to allevi
 | Learning Latent Plans from Play                                           | No             | 2019             | 10-      |
 | DialogWAE: Multimodal Response Generation With Conditional Wasserstein Auto-Encoder | No             | 2019             | 10-  |
 
-Highly related papers:
+Highly related papers but not exactly on Posterior Collapse:
 
 | Paper                                              | Implementation | Publication Year | Citation |
 | ---------------------------------------------------| -------------- | ---------------- | -------- |
