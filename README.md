@@ -1,2 +1,4 @@
-# posterior-collapse-list
-A curated list of techniques to avoid posterior collapse
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
