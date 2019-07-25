@@ -79,3 +79,4 @@ Highly related papers but not exactly on Posterior Collapse:
 | Sinkhorn AutoEncoders              | No             |  2018           | 10-      |
 | Learning Priors for Adversarial Autoencoders       | No             |  2018           | 10-      |
 | Universal Audio Synthesizer Control With Normalizing Flows       | Yes             |  2018           | 10-      |
+| Representation Learning with Contrastive Predictive Coding       | Third Party     | 2018            | 50+      |
