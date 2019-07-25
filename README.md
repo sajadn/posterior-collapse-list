@@ -69,18 +69,18 @@ Highly related papers:
 | Adversarial Autoencoders                                            |  Third Party     | 2015     | 750+ | 
 | Improved variational inference with inverse autoregressive flow     | Yes              |  2016            | 400+     |
 | Variational lossy autoencoder                     | No             |  2016            | 190+      |
-| Symmetrized Variational Inference    |  2016   | 10-     |
+| Symmetrized Variational Inference    |  No        |  2016   | 10-     |
 | ELBO surgery: yet another way to carve up the variational evidence lower bound  |  No          | 2017            | 70+      |
 | Adversarial Symmetric Variational Autoencoder | No             |  2017            | 25+     |
 |  | Third Party  | 2018           | 50      |
-| WASSERSTEIN AUTO-ENCODERS: LATENT DIMENSIONALITY AND RANDOM ENCODERS        | No             |  2018           | 210-      |
-| LEARNING  DEEP  REPRESENTATIONS  BY  MUTUAL  IN-FORMATION ESTIMATION AND  MAXIMIZATION  | No           |  2018           | 20+      |
+| Wassertain Auto-Encoder: Latent Dimentionality And Random Encoders        | No             |  2018           | 210-      |
+| Learning Deep Representation by Mutual Information Estimation And  Maximization  | No           |  2018           | 20+      |
 | Sinkhorn AutoEncoders              | No             |  2018           | 10-      |
 | Learning Priors for Adversarial Autoencoders       | No             |  2018           | 10-      |
-| UNIVERSAL AUDIO SYNTHESIZER CONTROL WITH NORMALIZING FLOWS       | No             |  2018           | 10-      |
+| Universal Audio Synthesizer Control With Normalizing Flows       | No             |  2018           | 10-      |
 | Auto-Encoding Variational Neural Machine Translation             | No             |  2018           | 20+      |
 | Unsupervised speech representation learning using WaveNet autoencoders    | No             |  2019           | 10-   |
 | Syntax-Infused Variational Autoencoder for Text Generation                | No             |  2019          | 10-   |
 | Unsupervised Recurrent Neural Network Grammars                            | No             |  2019          | 10-   |
 | Learning Latent Plans from Play                                           | No             | 2019             | 10-      |
-| DIALOG WAE: MULTIMODAL RESPONSE GENERATION WITH CONDITIONAL WASSERSTEIN AUTO-ENCODER | No             | 2019             | 10-  |
+| DIALOG WAE: Multimodal Response Generation With Conditional Wassertain Auto-Encoder | No             | 2019             | 10-  |
