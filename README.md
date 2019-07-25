@@ -60,7 +60,7 @@ Some paper observed posterior collapse for a particular task and tried to allevi
 | Syntax-Infused Variational Autoencoder for Text Generation                | No             |  2019          | 10-   |
 | Unsupervised Recurrent Neural Network Grammars                            | No             |  2019          | 10-   |
 | Learning Latent Plans from Play                                           | No             | 2019             | 10-      |
-| DIALOG WAE: MULTIMODAL RESPONSE GENERATION WITH CONDITIONAL WASSERSTEIN AUTO-ENCODER | No             | 2019             | 10-  |    
+| DialogWAE: Multimodal Response Generation With Conditional Wasserstein Auto-Encoder | No             | 2019             | 10-  |
 
 Highly related papers:
 
@@ -83,4 +83,3 @@ Highly related papers:
 | Syntax-Infused Variational Autoencoder for Text Generation                | No             |  2019          | 10-   |
 | Unsupervised Recurrent Neural Network Grammars                            | No             |  2019          | 10-   |
 | Learning Latent Plans from Play                                           | No             | 2019             | 10-      |
-| DIALOG WAE: Multimodal Response Generation With Conditional Wassertain Auto-Encoder | No             | 2019             | 10-  |
