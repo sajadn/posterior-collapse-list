@@ -17,11 +17,10 @@
 | Avoiding Latent Variable Collapse with Generative Skip Models | Yes            |  2017            | 70+      |
 | Distribution matching in variational inference     | Third Party    |  2017            | 40+      |
 | Hyperspherical Variational Auto-Encoders           | No | 2018 | 10- |
-| Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation                                    | No             |  2018            | 10+      |
+| Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation      | No             |  2018            | 10+      |
 | The Mutual Autoencoder: Controlling Information in Latent Code Representations  | No             |  2018            | 40+      |
 | HIERARCHICALLY-STRUCTURED VARIATIONAL AUTOENCODERS FOR LONG TEXT GENERATION     | No             |  2018            | 40+      |
 | Adversarially Regularized Autoencoders                                          | No             |  2018            | 40+      |
-
 | BIVA: A very deep hierarchy of latent variables for generative modeling         | No             |  2018            | 40+      |  | preventing posterior collapse with delta-VAEs                                   | No             |  2018            | 40+      |
 | Diagnosing and enhancing VAE model                                              | No             |  2018            | 40+      |
 | MAE: MUTUAL POSTERIOR-DIVERGENCE REGULARIZATION FOR VARIATIONAL AUTO ENCODERS   | No             |  2018            | 40+      |
