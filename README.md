@@ -38,6 +38,7 @@ Lots of papers has been trying to address the problem of posterior collapse with
 | Compound Variational Auto-Encoder                                               | No             |  2019            | 10-      |
 | Quantization-Based Regularization for Autoencoders                              | No             |  2019            |  10-     |  | Lagging Ingerence Network And Posterior Collapse In Variational Autoencoders    | No             |  2019            | 10-       |
 | Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing       | No             | 2019             | 10-       |
+| Understanding Posterior Collapse in Generative Latent Variable Models           | No             | 2019             | 10-  |
 
 
 Some papers observed posterior collapse for a particular task and tried to alleviate it mostly by KL-annealing: 
