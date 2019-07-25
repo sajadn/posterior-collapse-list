@@ -1,4 +1,4 @@
-Lots of papers has been trying to address the problem of posterior collapse with VAEs. Due to huge number of publications, I thought it would be intersting to create a list of related papers. 
+Lots of papers has been trying to address the problem of posterior collapse with VAEs. Due to huge number of publications, I thought it is intersting to have a list of related papers. 
 
 | Paper                                              | implementation | Publication Year | Citation |
 | ---------------------------------------------------| -------------- | ---------------- | -------- |
