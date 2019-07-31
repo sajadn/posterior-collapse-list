@@ -5,7 +5,6 @@ Lots of papers has been trying to address the problem of posterior collapse with
 | Ladder variational autoencoders                    | Yes            |  2016            | 200+     |
 | Stick-Breaking VAE                                 | No             |  2016            | 40+      |
 | Epitomic Variational Autoencoder                   | No             | 2016             | 10-      |
-| beta-VAE: Learning basic visual concepts with a constrained variational framework| Third Party |  2017   | 350+     |
 | Fixing a broken ELBO                               | No             |  2017            | 70+      |
 | Neural discrete representation learning            | Third Party    |  2017            | 128+     |
 | Tackling Over-pruning in Variational Autoencoders  | No             |  2017            | 20+      |
@@ -73,6 +72,7 @@ Highly related papers but not exactly on Posterior Collapse:
 | Symmetrized Variational Inference    |  No        |  2016   | 10-     |
 | ELBO surgery: yet another way to carve up the variational evidence lower bound  |  No          | 2017            | 70+      |
 | Adversarial Symmetric Variational Autoencoder | No             |  2017            | 25+     |
+| beta-VAE: Learning basic visual concepts with a constrained variational framework| Third Party |  2017   | 350+     |
 | Learning Latent Representations for Style Ccontrol And Transfer In end-to-end Speech Synthesis | Third Party  | 2018     |50+   |
 | Wassertain Auto-Encoder: Latent Dimentionality And Random Encoders        | No             |  2018           | 10-      |
 | Learning Deep Representation by Mutual Information Estimation And  Maximization  | No           |  2018           | 20+      |
