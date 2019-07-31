@@ -19,7 +19,6 @@ Lots of papers has been trying to address the problem of posterior collapse with
 | Avoiding Latent Variable Collapse with Generative Skip Models | No            |  2018            | 15+      |
 | Spherical Latent Spaces for Stable Variational Autoencoders   |  Yes          |  2018     | 10+      |
 | Distribution matching in variational inference     | Third Party    |  2017            | 15+      |
-| Hyperspherical Variational Auto-Encoders           | Yes | 2018 | 30+ |
 | Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation      | No             |  2018            | 10+      |
 | Learning Latent Representations For Style Control And Transfer in End-To-End Speech Synthesis    | Third Party | 2018 | 10-|
 | The Mutual Autoencoder: Controlling Information in Latent Code Representations  | No             |  2018            | 10-      |
@@ -78,5 +77,6 @@ Highly related papers but not exactly on Posterior Collapse:
 | Learning Deep Representation by Mutual Information Estimation And  Maximization  | No           |  2018           | 20+      |
 | Sinkhorn AutoEncoders              | No             |  2018           | 10-      |
 | Learning Priors for Adversarial Autoencoders       | No             |  2018           | 10-      |
+| Hyperspherical Variational Auto-Encoders           | Yes | 2018 | 30+ |
 | Universal Audio Synthesizer Control With Normalizing Flows       | Yes             |  2018           | 10-      |
 | Representation Learning with Contrastive Predictive Coding       | Third Party     | 2018            | 50+      |
