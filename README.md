@@ -3,7 +3,6 @@ Lots of papers has been trying to address the problem of posterior collapse with
 | Paper                                              | Implementation | Publication Year | Citation |
 | ---------------------------------------------------| -------------- | ---------------- | -------- |
 | Ladder variational autoencoders                    | Yes            |  2016            | 200+     |
-| Stick-Breaking VAE                                 | No             |  2016            | 40+      |
 | Epitomic Variational Autoencoder                   | No             | 2016             | 10-      |
 | Fixing a broken ELBO                               | No             |  2017            | 70+      |
 | Neural discrete representation learning            | Third Party    |  2017            | 128+     |
@@ -67,6 +66,7 @@ Highly related papers but not exactly on Posterior Collapse:
 | ---------------------------------------------------| -------------- | ---------------- | -------- |
 | Adversarial Autoencoders                                            |  Third Party     | 2015     | 750+ | 
 | Improved variational inference with inverse autoregressive flow     | Yes              |  2016            | 400+     |
+| Stick-Breaking VAE                                 | No             |  2016            | 40+      |
 | Variational lossy autoencoder                     | No             |  2016            | 190+      |
 | Symmetrized Variational Inference    |  No        |  2016   | 10-     |
 | ELBO surgery: yet another way to carve up the variational evidence lower bound  |  No          | 2017            | 70+      |
