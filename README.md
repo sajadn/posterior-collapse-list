@@ -3,7 +3,6 @@ Lots of papers has been trying to address the problem of posterior collapse with
 | Paper                                              | Implementation | Publication Year | Citation |
 | ---------------------------------------------------| -------------- | ---------------- | -------- |
 | Ladder variational autoencoders                    | Yes            |  2016            | 200+     |
-| Epitomic Variational Autoencoder                   | No             | 2016             | 10-      |
 | Fixing a broken ELBO                               | No             |  2017            | 70+      |
 | Neural discrete representation learning            | Third Party    |  2017            | 128+     |
 | Tackling Over-pruning in Variational Autoencoders  | No             |  2017            | 20+      |
