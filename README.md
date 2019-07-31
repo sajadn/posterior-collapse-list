@@ -16,7 +16,6 @@ Lots of papers has been trying to address the problem of posterior collapse with
 | Semi-Amortized Variational Autoencoders            | No             |  2018            | 40+      |
 | Avoiding Latent Variable Collapse with Generative Skip Models | No            |  2018            | 15+      |
 | Spherical Latent Spaces for Stable Variational Autoencoders   |  Yes          |  2018     | 10+      |
-| Distribution matching in variational inference     | Third Party    |  2017            | 15+      |
 | Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation      | No             |  2018            | 10+      |
 | Learning Latent Representations For Style Control And Transfer in End-To-End Speech Synthesis    | Third Party | 2018 | 10-|
 | The Mutual Autoencoder: Controlling Information in Latent Code Representations  | No             |  2018            | 10-      |
@@ -71,6 +70,7 @@ Highly related papers but not exactly on Posterior Collapse:
 | ELBO surgery: yet another way to carve up the variational evidence lower bound  |  No          | 2017            | 70+      |
 | Adversarial Symmetric Variational Autoencoder | No             |  2017            | 25+     |
 | beta-VAE: Learning basic visual concepts with a constrained variational framework| Third Party |  2017   | 350+     |
+| Distribution matching in variational inference     | Third Party    |  2017            | 15+      |
 | Learning Latent Representations for Style Ccontrol And Transfer In end-to-end Speech Synthesis | Third Party  | 2018     |50+   |
 | Wassertain Auto-Encoder: Latent Dimentionality And Random Encoders        | No             |  2018           | 10-      |
 | Learning Deep Representation by Mutual Information Estimation And  Maximization  | No           |  2018           | 20+      |
