@@ -20,7 +20,6 @@ Lots of papers has been trying to address the problem of posterior collapse with
 | Learning Latent Representations For Style Control And Transfer in End-To-End Speech Synthesis    | Third Party | 2018 | 10-|
 | The Mutual Autoencoder: Controlling Information in Latent Code Representations  | No             |  2018            | 10-      |
 | Hierarchicaly-Structured Variational Autoencoder For Long Text Generation     | No             |  2018            | 10-      |
-| Adversarially Regularized Autoencoders                                          | Yes             |  2018            | 60+      |
 | BIVA: A very deep hierarchy of latent variables for generative modeling         | No             |  2019            | 10-     |
 |preventing posterior collapse with delta-VAEs                                   | No             |  2019            | 10-      |
 | Diagnosing and enhancing VAE model                                              | No             |  2019            | 10-      |
@@ -71,6 +70,7 @@ Highly related papers but not exactly on Posterior Collapse:
 | Variational lossy autoencoder                     | No             |  2016            | 190+      |
 | Symmetrized Variational Inference    |  No        |  2016   | 10-     |
 | ELBO surgery: yet another way to carve up the variational evidence lower bound  |  No          | 2017            | 70+      |
+| Adversarially Regularized Autoencoders                                          | Yes             |  2018            | 60+      |
 | Adversarial Symmetric Variational Autoencoder | No             |  2017            | 25+     |
 | beta-VAE: Learning basic visual concepts with a constrained variational framework| Third Party |  2017   | 350+     |
 | Distribution matching in variational inference     | Third Party    |  2017            | 15+      |
