@@ -22,7 +22,7 @@ Lots of papers has been trying to address the problem of posterior collapse with
 | Hierarchicaly-Structured Variational Autoencoder For Long Text Generation     | No             |  2018            | 10-      |
 | Adversarially Regularized Autoencoders                                          | Yes             |  2018            | 60+      |
 | BIVA: A very deep hierarchy of latent variables for generative modeling         | No             |  2019            | 10-     |
-|preventing posterior collapse with delta-VAEs                                   | No             |  2019            | 40+      |
+|preventing posterior collapse with delta-VAEs                                   | No             |  2019            | 10-      |
 | Diagnosing and enhancing VAE model                                              | No             |  2019            | 10-      |
 | MAE: Mutual Posterior-Divergence Regularization For Variational Auto Encoder   | No             |  2019            | 10-      |
 | Topic-Guided Variational Autoencoders for Text Generation                       | No             |  2019            | 10-      |
