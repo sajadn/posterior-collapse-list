@@ -6,8 +6,8 @@ Lots of papers has been trying to address the problem of posterior collapse with
 | Fixing a broken ELBO                               | No             |  2017            | 70+      |
 | Neural discrete representation learning            | Third Party    |  2017            | 128+     |
 | Tackling Over-pruning in Variational Autoencoders  | No             |  2017            | 20+      |
-| Filtering Variational Objectives                   | No             |  2017            | 60+      |
-| Auxiliary Guided Autoregressive Variational Autoencoders | No       |  2017            | 10-      |
+| Filtering Variational Objectives                   | Yes             |  2017            | 60+      |
+| Auxiliary Guided Autoregressive Variational Autoencoders | Third Party  |  2017            | 10-      |
 | VAE with a VampPrior                               | Yes            |  2017            | 70+      |
 | Z-Forcing: Training Stochastic Recurrent Networks  | Third Party    |  2017            | 40+      |
 | Latent Space Optimal Transport for Generative Models                |  No             |  2018     | 10- |
