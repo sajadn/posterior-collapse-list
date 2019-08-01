@@ -26,13 +26,15 @@ Lots of papers has been trying to address the problem of posterior collapse with
 | Diagnosing and enhancing VAE model                                              | No             |  2019            | 10-      |
 | MAE: Mutual Posterior-Divergence Regularization For Variational Auto Encoder   | No             |  2019            | 10-      |
 | Topic-Guided Variational Autoencoders for Text Generation                       | No             |  2019            | 10-      |
-| Importance Weighted Hierarchical Variational Inference                          | No             |  2019            | 10-      |  | Generated Loss, Augmented Training, And Multiscale VAE                          | No             |  2019            | 40+      |
+| Importance Weighted Hierarchical Variational Inference                          | No             |  2019            | 10-      |  
+| Generated Loss, Augmented Training, And Multiscale VAE                          | No             |  2019            | 40+      |
 | mμ-Forcing: Training Variational Recurrent Autoencoders for Text Generation     | No             |  2019            | 10-      |
 | Dueling Decoders: Regularizing Variational Autoencoder Latent Spaces            | No             |  2019            | 10-      |
 | Riemannian Normalizing Flow on Variational Wasserstein Autoencoder for Text Modeling    | No             |  2019    | 10-   |
 | LIA: Latently Invertible Autoencoder with Adversarial Learning                  | Yes             |  2019            | 10-      |  
 | Compound Variational Auto-Encoder                                               | No             |  2019            | 10-      |
-| Quantization-Based Regularization for Autoencoders                              | No             |  2019            |  10-     |  | Lagging Ingerence Network And Posterior Collapse In Variational Autoencoders    | No             |  2019            | 10-       |
+| Quantization-Based Regularization for Autoencoders                              | No             |  2019            |  10-     |  
+| Lagging Ingerence Network And Posterior Collapse In Variational Autoencoders    | No             |  2019            | 10-       |
 | Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing       | No             | 2019             | 10-       |
 | Understanding Posterior Collapse in Generative Latent Variable Models           | No             | 2019             | 10-  |
 
