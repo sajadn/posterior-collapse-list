@@ -20,6 +20,8 @@ Lots of papers has been trying to address the problem of posterior collapse with
 | Learning Latent Representations For Style Control And Transfer in End-To-End Speech Synthesis    | Third Party | 2018 | 10-|
 | The Mutual Autoencoder: Controlling Information in Latent Code Representations  | No             |  2018            | 10-      |
 | Hierarchicaly-Structured Variational Autoencoder For Long Text Generation     | No             |  2018            | 10-      |
+|Iterative Amortized Inference | No |2018|20+
+|
 | BIVA: A very deep hierarchy of latent variables for generative modeling         | No             |  2019            | 10-     |
 |preventing posterior collapse with delta-VAEs                                   | No             |  2019            | 10-      |
 | Diagnosing and enhancing VAE model                                              | No             |  2019            | 10-      |
